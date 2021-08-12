@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sbmeditate.com
+Token: 9a77c9804e03fa496fc5db9db6346f6d38e823cc1092e663df06e1843dac4de3
