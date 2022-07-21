@@ -8,6 +8,7 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -808,7 +809,8 @@ section {
 --------------------------------------------------------------*/
 .testimonials .testimonial-item {
   box-sizing: content-box;
-  min-height: 100px;
+  min-height: 10
+  0px;
 }
 
 .testimonials .testimonial-item .testimonial-img {
